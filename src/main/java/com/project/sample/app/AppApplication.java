@@ -16,7 +16,7 @@ public class AppApplication {
 
 	@RequestMapping(value = "",method = RequestMethod.GET)
 	public String sayHello(){
-		return "Hello world";
+		return "Hello kumar";
 	}
 
 }
